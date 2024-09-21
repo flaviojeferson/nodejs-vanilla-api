@@ -38,7 +38,7 @@ O objetivo deste projeto é mostrar que podemos construir uma API funcional com 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/flaviojeferson/nodejs-vanilla-api.git
    ```
 
 2. Instale as dependências:
